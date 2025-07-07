@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 Click here to try FurFeed live
+🔗 [Click here to try FurFeed](https://shraddha68.github.io/furfeed/)
 
 ---
 
