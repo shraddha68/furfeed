@@ -29,8 +29,7 @@
 ---
 
 ## 📷 Screenshot
-
-<img src="./screenshot.png" alt="FurFeed preview" width="600"/>
+![Screenshot 2025-07-07 222147](https://github.com/user-attachments/assets/2efd2fa1-a056-4859-925a-8f5e7cb66b20)
 
 ---
 
