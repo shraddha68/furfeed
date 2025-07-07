@@ -59,3 +59,55 @@ body{
 #newCatButton:hover{
     transform: scale(1.2);
 }
+
+@media (max-width: 768px) {
+  #container {
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+  }
+
+  #dogSection,
+  #catSection {
+    width: 100%;
+  }
+
+  #dogImage,
+  #catImage {
+    width: 80%;
+    height: auto;
+  }
+
+  #title {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  #dogStatus,
+  #catStatus {
+    font-size: 24px;
+  }
+
+  #dogFact,
+  #catFact {
+    font-size: 20px;
+    padding: 0 10px;
+  }
+
+  #newDogButton,
+  #newCatButton {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+}
+
+@media (max-width: 400px) {
+  #title {
+    font-size: 28px;
+  }
+
+  #dogFact,
+  #catFact {
+    font-size: 18px;
+  }
+}
